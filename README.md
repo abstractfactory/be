@@ -18,3 +18,6 @@ be is a directory and environment management system for creative projects.
 - [be by example](https://gist.github.com/mottosso/840b3edf532df286f2dd)
 - [install](../../wiki/install)
 - [presets](../../wiki/presets)
+
+
+[![Join the chat at https://gitter.im/mottosso/be](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mottosso/be?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
